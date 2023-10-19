@@ -5,6 +5,11 @@
 #include <cmath>
 using namespace std;
 
+
+# SFML GRAOHICS MAY NEED TO BE SAVED IN A SPECIFIC LOCATION TO WORK PROPERLY
+#THIS CODE PRINTS A STAR MAP BASED ON THE THE BIGHTNESS :), TRY IT OUT IN C LION 
+
+
 #include <SFML/Graphics.hpp>
 using namespace sf;
 
