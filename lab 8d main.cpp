@@ -1,6 +1,10 @@
 //l8B
 //2 skip days used 
 
+## THIS CODE DISPLAYS THE GIVEN PHOTO, MIGHTYFAVOG.JPG. AND BOUNCES AROUND SIMILAR TO THE DVD LOGO. 
+
+
+
 
 #include <iostream>                             // for standard input/output
 #include <algorithm>
